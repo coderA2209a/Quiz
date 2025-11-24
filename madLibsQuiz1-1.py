@@ -1,6 +1,6 @@
 #This is a MadLibs project 
-#My name: 
-#Who I collaborated with: 
+#My name: Alyssa
+#Who I collaborated with: no one
 
 print("************************************")
 print("|                                  |")
@@ -43,3 +43,4 @@ if play = "y"
     
 
     
+
